@@ -6,7 +6,7 @@ Repositorio de la 5ta y 6ta sección del curso "Flutter - Móvil: De cero a expe
 
 - Dart
 - Paquete Dio para consumo de APIs
-- Consumo de API [text](https://yesno.wtf/api)
+- Consumo de API [yesno.wtf](https://yesno.wtf/api)
 - Provider como manejador de estado
 
 ## Getting Started
